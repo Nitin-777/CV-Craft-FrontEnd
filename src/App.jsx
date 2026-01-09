@@ -3,7 +3,9 @@ function App() {
   
 
   return (
-     <Hero></Hero>
+    
+   <Hero></Hero>
+     
   )
 }
 
